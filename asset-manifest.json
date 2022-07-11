@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laravel-react-js-jobs-frontend-app/static/css/main.c49ef4fc.css",
+    "main.js": "/laravel-react-js-jobs-frontend-app/static/js/main.803a26e6.js",
+    "static/js/787.22e3b59d.chunk.js": "/laravel-react-js-jobs-frontend-app/static/js/787.22e3b59d.chunk.js",
+    "index.html": "/laravel-react-js-jobs-frontend-app/index.html",
+    "main.c49ef4fc.css.map": "/laravel-react-js-jobs-frontend-app/static/css/main.c49ef4fc.css.map",
+    "main.803a26e6.js.map": "/laravel-react-js-jobs-frontend-app/static/js/main.803a26e6.js.map",
+    "787.22e3b59d.chunk.js.map": "/laravel-react-js-jobs-frontend-app/static/js/787.22e3b59d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.803a26e6.js"
+  ]
+}
